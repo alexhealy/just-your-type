@@ -1,10 +1,4 @@
 html {
-  box-sizing: border-box;
-  -moz-text-size-adjust: 100%;
-  -ms-text-size-adjust: 100%;
-  -webkit-text-size-adjust: 100%;
-  text-size-adjust: 100%;
-
   background-color: #e2c9ce;
   font-family: Roboto, sans-serif;
   color: #fff;
@@ -21,10 +15,10 @@ html {
 
 .type1 {
   text-align: center;
-  font-family: 'Roboto', sans-serif;
+  font-family: Roboto, sans-serif;
 }
 
 .type2 {
   text-align: center;
-  font-family: 'Yeseva One', cursive;
+  font-family: Yeseva One, cursive;
 }
