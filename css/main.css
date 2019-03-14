@@ -43,6 +43,7 @@ html {
   p {
     margin: 0 0 1.4rem;
   }
+
 }
 
 @media only screen and (min-width: 60em) {
@@ -68,4 +69,5 @@ html {
     height: 100px;
     width: 7px;
   }
+
 }
