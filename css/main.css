@@ -30,13 +30,41 @@ html {
   p {
     margin: 0 0 1.3rem;
   }
+
+  .card {
+    padding-top: 60px;
+  }
 }
 
 @media only screen and (min-width: 38em) {
 
+  h2,
+  p {
+    margin: 0 0 1.4rem;
+  }
 }
 
 @media only screen and (min-width: 60em) {
 
+  h2,
+  p {
+    margin: 0 0 1.5rem;
+  }
 
+  .type1 {
+    text-align: center;
+  }
+
+  .type2 {
+    color: #cda349;
+  }
+
+  .seperate {
+    color: #cda349;
+  }
+
+  .rectangle {
+    height: 100px;
+    width: 7px;
+  }
 }
