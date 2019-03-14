@@ -18,3 +18,22 @@ html {
   text-align: center;
   font-family: "Yeseva One", cursive;
 }
+
+.card {
+  border: 2px solid #cda349;
+  border-radius: 8px;
+}
+
+@media only screen and (min-width: 25em) {
+
+  h1,
+  p {
+    margin: 0 0 1.3rem;
+  }
+}
+
+@media only screen and (min-width: 38em) {
+
+}
+
+@media only screen and (min-width: 60em)
